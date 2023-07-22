@@ -1,5 +1,6 @@
-![Logo](logo.png)
+![Logo](./logo.png)
 
+### About
 Konfig is a developer tools company; we build API tooling based off the OpenAPI Specification and Postman Collection Format standards.
 
 ### The Problem
